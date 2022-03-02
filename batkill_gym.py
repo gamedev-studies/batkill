@@ -13,7 +13,6 @@ class BatkillEnv(gym.Env):
         self.observer = Observer()
         self.game.attach(self.observer)
         
-
     def reset(self):
         self.game.initializeValues()
 

@@ -35,4 +35,4 @@ for i in range(300):
     if done:
         obs = env.reset()
 
-imageio.mimsave('batkill_ppo.gif', [np.array(img) for i, img in enumerate(images) if i%2 == 0], fps=29)
+# imageio.mimsave('batkill_ppo.gif', [np.array(img) for i, img in enumerate(images) if i%2 == 0], fps=29)

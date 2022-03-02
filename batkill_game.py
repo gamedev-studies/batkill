@@ -115,10 +115,6 @@ class Batkill():
         if action is None:
             action = []
         self.actions = action
-        # if ATTACK in action:
-        #     reward -= 0.1
-        # if JUMP in action:
-        #     reward -= 0.2
 
         self.player.control(action)
 
@@ -135,19 +131,12 @@ class Batkill():
         for idx, bat in self.sorted_bats.items():
             if bat is not None:
                 bat.update()
-                # if bat.direction == -1:
-                    # if bat.rect.x < self.player.sp.rect.x:
-                    #     reward += 0.1
-                # else:
-                    # if bat.rect.x > self.player.sp.rect.x:
-                        # reward += 0.1
 
                 if self.player.sp.attack.attack_poly is not None and not bat.dying:
                     killed = self.player.sp.attack.attack_poly.rect.colliderect(bat.collider_rect)
                     if killed:
                         bat.die()
                         attained_score += 1
-                        # reward += 5
                 if bat.dead or bat.rect.x > self.worldx or bat.rect.x < 0:
                     self.enemies.remove(bat)
                     bat.kill()
@@ -156,7 +145,6 @@ class Batkill():
                 elif bat.collider_rect is not None and self.player.sp.collider_rect.colliderect(bat.collider_rect):
                     bat.die()
                     self.lives -= 1
-                    # reward -= 5
 
         self.score += attained_score
 
