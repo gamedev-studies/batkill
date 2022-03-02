@@ -1,6 +1,8 @@
+import logging
 import os
 import string
 import sys
+from traceback import print_tb
 import numpy as np
 import random
 
@@ -62,6 +64,14 @@ class Batkill():
         self.initializeValues()
     
     def initializeValues(self) -> None:
+        
+        logging.basicConfig(format='%(asctime)s.%(msecs)03d %(message)s',
+                            datefmt='%H:%M:%S',
+                            filename='commands.log',
+                            filemode='w',
+                            encoding='utf-8',
+                            level=logging.INFO)
+
         pygame.init()
         pygame.font.init()
 
@@ -115,6 +125,11 @@ class Batkill():
         if action is None:
             action = []
         self.actions = action
+
+        # print(str(action))
+        # print(type(action))
+
+        logging.info(action) 
 
         self.player.control(action)
 

@@ -28,6 +28,7 @@ for i in range(300):
     # observation, reward, done, info = env.step(random_action) 
 
     images.append(img)
+    
     action, _state = model.predict(obs)
     obs, reward, done, info = env.step(action)
     img = model.env.render(mode='rgb_array')
