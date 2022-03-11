@@ -1,4 +1,5 @@
 import logging
+import math
 import os
 import string
 import sys
@@ -13,7 +14,7 @@ from models.spriteful_player import Player
 from models.backend_player import MOVE_LEFT, MOVE_RIGHT, JUMP, ATTACK
 
 class Event():
-    def __init__(self, score, lives, player, worldx, worldy, sorted_bats, max_bats, pixl_arr):
+    def __init__(self, score, lives, player, worldx, worldy, sorted_bats, max_bats, pixl_arr, moving_towards, facing_nearest_bat):
         self.score = score
         self.lives = lives
         self.player = player
@@ -22,6 +23,8 @@ class Event():
         self.sorted_bats = sorted_bats
         self.max_bats = max_bats
         self.pixl_arr = pixl_arr
+        self.moving_towards = moving_towards
+        self.facing_nearest_bat = facing_nearest_bat
         pass
 
 class Observer():
@@ -64,7 +67,7 @@ class Batkill():
         self.initializeValues()
     
     def initializeValues(self) -> None:
-        
+
         logging.basicConfig(format='%(asctime)s.%(msecs)03d %(message)s',
                             datefmt='%H:%M:%S',
                             filename='commands.log',
@@ -95,12 +98,14 @@ class Batkill():
 
         self.score_font = pygame.font.SysFont(os.path.join('static', 'fonts', 'SourceCodePro-Medium.ttf'), 30)
         self.score_surface = self.score_font.render(f"SCORE: {round(self.score * 1000)}, LIVES: {self.lives}", True,
-                                                    (0, 0, 0, 0))
+                                                      (0, 0, 0, 0))
 
         self.enemies = pygame.sprite.Group()
         self.running = True
 
-        event = Event(self.score, self.lives, self.player, self.worldx, self.worldy, self.sorted_bats, self.max_bats, np.array([]))
+        self.dt = 1
+
+        event = Event(self.score, self.lives, self.player, self.worldx, self.worldy, self.sorted_bats, self.max_bats, np.array([]), False, False)
         self.notify(event)
 
     def gameInput(self):
@@ -117,6 +122,7 @@ class Batkill():
         return player_actions
 
     def gameUpdate(self, command: Command) -> bool:
+        moving_towards = False
 
         attained_score = 0
 
@@ -126,12 +132,12 @@ class Batkill():
             action = []
         self.actions = action
 
-        # print(str(action))
-        # print(type(action))
+        logging.info(str(action) +
+                     " -time " + str(self.clock.get_time()) +
+                     " -raw-time " + str(self.clock.get_rawtime()) +
+                     " -fps " + str(math.ceil(self.clock.get_fps()))) 
 
-        logging.info(action) 
-
-        self.player.control(action)
+        self.player.control(action, self.dt)
 
         if any([v is None for v in self.sorted_bats.values()]):
             new_bat = random_bat(current_score=self.score, sprite_path=bat_sprite_path)
@@ -146,12 +152,18 @@ class Batkill():
         for idx, bat in self.sorted_bats.items():
             if bat is not None:
                 bat.update()
+                if bat.direction == -1:
+                    if bat.rect.x < self.player.sp.rect.x:
+                        moving_towards = True
+                else:
+                    if bat.rect.x > self.player.sp.rect.x:
+                        moving_towards = True
 
                 if self.player.sp.attack.attack_poly is not None and not bat.dying:
                     killed = self.player.sp.attack.attack_poly.rect.colliderect(bat.collider_rect)
                     if killed:
                         bat.die()
-                        attained_score += 1
+                        attained_score += 1                        
                 if bat.dead or bat.rect.x > self.worldx or bat.rect.x < 0:
                     self.enemies.remove(bat)
                     bat.kill()
@@ -161,12 +173,28 @@ class Batkill():
                     bat.die()
                     self.lives -= 1
 
+        facing_nearest_bat = self._check_facing_nearest_bat()
+
         self.score += attained_score
 
-        event = Event(self.score, self.lives, self.player, self.worldx, self.worldy, self.sorted_bats, self.max_bats, self.world)
+        event = Event(self.score, self.lives, self.player, self.worldx, self.worldy, self.sorted_bats, self.max_bats, self.world, moving_towards, facing_nearest_bat)
         self.notify(event)
 
         return True
+
+    def _check_facing_nearest_bat(self):
+        distance = self.worldx
+        for idx, bat in self.sorted_bats.items():
+            if bat is not None:
+                d = bat.rect.x - self.player.sp.rect.x
+                abs_d = abs(d)
+                if abs_d < abs(distance):
+                    distance = d
+        facing_nearest = (distance > 0 and self.player.sp.facing > 0) or (distance < 0 and self.player.sp.facing < 0)
+        if facing_nearest and len([x for x in self.sorted_bats.values() if x is not None]) > 0:
+            return True
+        else:
+            return False
 
     def gameRender(self, custom_message=None, **kwargs):
         for event in pygame.event.get():
@@ -182,11 +210,13 @@ class Batkill():
             custom_message_surface = self.score_font.render(str(custom_message), True,
                                                             (0, 0, 0, 0))
             self.world.blit(custom_message_surface, (10, 30))
+                
         self.player.update()
         self.player_list.draw(self.world)
         self.player_list.draw(self.world)
         pygame.display.flip()
-        self.clock.tick(self.fps)
+        self.dt = self.clock.tick_busy_loop(self.fps)
+        
 
         pixl_arr = pygame.surfarray.array2d(self.world)
         pixl_arr = np.swapaxes(pixl_arr, 0, 1)

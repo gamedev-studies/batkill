@@ -46,17 +46,38 @@ class BatkillEnv(gym.Env):
         return self._get_obs()
 
     def step(self, action):
+        reward = 0
+        
+        score = self.observer.event.score 
+        lives = self.observer.event.lives
 
         actions_to_return = []
         for idx, i in enumerate(action):
             if round(i) >= 1:
                 actions_to_return.append(self.available_actions[idx][i])
 
-        self.done = not self.game.gameUpdate(Command(actions_to_return))
+        if ATTACK in action:
+            self.reward -= 0.1
+        if JUMP in action:
+            self.reward -= 0.2
 
-        reward = 0
+        self.done = not self.game.gameUpdate(Command(actions_to_return))      
 
-        return self._get_obs(), reward, self.observer.event.lives < 1, {}
+        if self.observer.event.score != score:
+            reward += 5
+        if self.observer.event.lives != lives:
+            reward -= 5
+
+        # reward if moving towards the bat
+        if self.observer.event.moving_towards:
+            reward += 0.1
+
+        if self.observer.event.facing_nearest_bat:
+            reward += 0.2
+
+        self.reward = reward
+
+        return self._get_obs(), self.reward, self.observer.event.lives < 1, {}
 
     def render(self, mode="human"):
         if mode == 'rgb_array':

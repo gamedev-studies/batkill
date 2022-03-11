@@ -66,7 +66,7 @@ class StandardPlayer:
             dy = 0
         return dy
 
-    def update(self, actions=None):
+    def update(self, actions=None, dt=None):
         if actions is None:
             actions = []
         if MOVE_LEFT in actions:

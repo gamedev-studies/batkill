@@ -19,7 +19,7 @@ iters = 0
 
 images = []
 img = model.env.render(mode='rgb_array')
-for i in range(300):
+for i in range(1000):
     iters += 1
     print("iteration", iters)
 

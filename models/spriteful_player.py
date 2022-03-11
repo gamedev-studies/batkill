@@ -50,13 +50,13 @@ class Player(pygame.sprite.Sprite):
     def rect(self):
         return self.sp.rect
 
-    def control(self, actions=None):
+    def control(self, actions=None, dt=None):
         '''
         control player movement
         '''
         if actions is None:
             actions = []
-        self.sp.update(actions)
+        self.sp.update(actions, dt)
 
     def update(self):
         '''
