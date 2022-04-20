@@ -1,0 +1,10 @@
+{
+    "session":"human",
+    "skill":"novice",
+    "run":1,
+    "time":3,
+    "bats":2,
+    "bat_speed":6,
+    "attack_cooldown":20,
+    "jump":false
+}

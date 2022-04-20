@@ -1,27 +1,26 @@
-from time import time
-from batkill_game import Batkill, Observer, Command
+import time
+import datetime
 import csv
 import time
+import json
 
-# testing session params
-TIME = 30 # seconds
-RUN = 'run1'
-SKILL = 'novice' # profissional
+from batkill_game import Batkill, Observer, Command
 
-# testing session game params
-BATS = 2
-BAT_SPEED = 6 # default 6
-ATTACK_COOLDOWN = 20 # default 10
-JUMP = False
+# read the config
+with open("config.json") as config_file:
+    data = json.loads(config_file.read())
 
-game = Batkill(max_bats=BATS, bat_speed=BAT_SPEED, attack_cooldown=ATTACK_COOLDOWN, jump=JUMP)
+game = Batkill(max_bats=data['bats'], 
+               bat_speed=data['bat_speed'], 
+               attack_cooldown=data['attack_cooldown'],
+               jump=data['jump'])
 
 myObserver = Observer()
 game.attach(myObserver)
 
 game.initializeValues()
 
-t_end = time.time() + TIME
+t_end = time.time() + data['time']
 while time.time() < t_end:
 
     player_actions = game.gameInput()
@@ -30,13 +29,18 @@ while time.time() < t_end:
 
     game.gameRender(custom_message='Manual Play')
 
-    print(myObserver.event.sorted_bats)
-
-    with open(''.join(['results/human-',SKILL,'-',RUN,'.csv']), 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)        
-        writer.writerow(['enemies', BATS])
-        writer.writerow(['enemy_speed', BAT_SPEED])
-        writer.writerow(['jump', JUMP])
-        writer.writerow(['attack_cooldown', ATTACK_COOLDOWN])
-        writer.writerow(['score', myObserver.event.score])
-        writer.writerow(['lives', myObserver.event.lives])
+# print the results
+with open(''.join(['results.csv']), 'a', newline='') as csvfile:
+    writer = csv.writer(csvfile, delimiter=',')        
+    # writer.writerow(["session","skill","run","time","bats","bat_speed","attack_cooldown","jump","score","lives"])
+    writer.writerow([str(datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')),
+        data['session'],
+        data['skill'],
+        data['run'],
+        data['time'],
+        data['bats'],
+        data['bat_speed'],
+        data['attack_cooldown'],
+        data['jump'],
+        myObserver.event.score,
+        myObserver.event.lives])
