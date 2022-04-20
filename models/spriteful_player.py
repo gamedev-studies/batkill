@@ -18,7 +18,7 @@ class Player(pygame.sprite.Sprite):
             yield -1
         return False
 
-    def __init__(self, sprite_dir):
+    def __init__(self, sprite_dir, attack_cooldown):
         pygame.sprite.Sprite.__init__(self)
 
         run_formatter = os.path.join(sprite_dir, 'adventurer-run-0{}.png')
@@ -41,9 +41,9 @@ class Player(pygame.sprite.Sprite):
 
         self.image = next(self.idle_right)
 
-        collider_rect = pygame.Rect(335, 673, 30, 54)
+        collider_rect = pygame.Rect(335, 673, 30, 54) #left, top, width, height
         rect = pygame.Rect(300, 653, 100, 74)
-        self.sp = StandardPlayer(ground_y=653, rect=rect, collider_rect=collider_rect, x_step=12)
+        self.sp = StandardPlayer(ground_y=653, rect=rect, collider_rect=collider_rect, x_step=12, attack_cooldown=attack_cooldown)
 
 
     @property

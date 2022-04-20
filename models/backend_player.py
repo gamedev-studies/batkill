@@ -16,7 +16,8 @@ class StandardPlayer:
                  max_x=785,
                  render=True,
                  rect=None,
-                 collider_rect=None
+                 collider_rect=None,
+                 attack_cooldown=None
                  ):
 
         self.rect = rect
@@ -38,7 +39,7 @@ class StandardPlayer:
         self.jump_stage = 0
         self.jump_max = jump_stages
 
-        self.attack = Attack(width=50, height=60, attack_duration=6, cool_down_duration=10, damage=5, player_width=70)
+        self.attack = Attack(width=50, height=60, attack_duration=6, cool_down_duration=attack_cooldown, damage=5, player_width=70)
 
     @property
     def collider_rect(self):

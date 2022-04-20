@@ -61,9 +61,12 @@ class Batkill():
         for observer in self._observers:
             observer.update(event)
 
-    def __init__(self, max_bats=2) -> None:
+    def __init__(self, max_bats=2, bat_speed=6, attack_cooldown=10, jump=False) -> None:
         self._observers = []
         self.max_bats = max_bats
+        self.bat_speed = bat_speed
+        self.attack_cooldown = attack_cooldown
+        self.jump = jump
         self.initializeValues()
     
     def initializeValues(self) -> None:
@@ -77,7 +80,7 @@ class Batkill():
 
         pygame.init()
         pygame.font.init()
-
+        
         self.deterministic_bats = False
         self.sorted_bats = {n: None for n in range(self.max_bats)}
 
@@ -92,7 +95,7 @@ class Batkill():
         self.world = pygame.display.set_mode([self.worldx, self.worldy])
         self.backdrop = pygame.image.load(background).convert()
         self.backdropbox = self.world.get_rect()
-        self.player = Player(adventurer_sprites)  # spawn player
+        self.player = Player(adventurer_sprites, self.attack_cooldown)  # spawn player        
         self.player_list = pygame.sprite.Group()
         self.player_list.add(self.player)
 
@@ -115,8 +118,9 @@ class Batkill():
             player_actions.append(MOVE_LEFT)
         if keys[pygame.K_RIGHT] or keys[pygame.K_d]:
             player_actions.append(MOVE_RIGHT)
-        if keys[pygame.K_UP] or keys[pygame.K_w]:
-            player_actions.append(JUMP)
+        if self.jump:
+            if keys[pygame.K_UP] or keys[pygame.K_w]:
+                player_actions.append(JUMP)
         if keys[pygame.K_SPACE]:
             player_actions.append(ATTACK)
         return player_actions
@@ -140,7 +144,7 @@ class Batkill():
         self.player.control(action, self.dt)
 
         if any([v is None for v in self.sorted_bats.values()]):
-            new_bat = random_bat(current_score=self.score, sprite_path=bat_sprite_path)
+            new_bat = random_bat(current_score=self.score, sprite_path=bat_sprite_path, base_speed=self.bat_speed)
             if new_bat:
                 for k, v in self.sorted_bats.items():
                     if v is None:
@@ -214,7 +218,7 @@ class Batkill():
         self.player.update()
         self.player_list.draw(self.world)
         self.player_list.draw(self.world)
-        pygame.display.flip()
+        pygame.display.flip() #Update the full display Surface to the screen
         self.dt = self.clock.tick_busy_loop(self.fps)
         
 
