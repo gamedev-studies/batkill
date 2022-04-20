@@ -1,92 +1,2048 @@
-02:36:38.971 [] -time 0 -raw-time 0 -fps 0
-02:36:38.994 [] -time 33 -raw-time 20 -fps 0
-02:36:39.025 [] -time 33 -raw-time 6 -fps 0
-02:36:39.058 [] -time 33 -raw-time 4 -fps 0
-02:36:39.092 [] -time 33 -raw-time 4 -fps 0
-02:36:39.125 [] -time 33 -raw-time 5 -fps 0
-02:36:39.158 [] -time 33 -raw-time 6 -fps 0
-02:36:39.192 [] -time 33 -raw-time 7 -fps 0
-02:36:39.225 [] -time 33 -raw-time 7 -fps 0
-02:36:39.258 [] -time 33 -raw-time 8 -fps 0
-02:36:39.291 [] -time 33 -raw-time 7 -fps 0
-02:36:39.324 [] -time 33 -raw-time 7 -fps 31
-02:36:39.358 [] -time 33 -raw-time 7 -fps 31
-02:36:39.390 [] -time 33 -raw-time 8 -fps 31
-02:36:39.423 [] -time 33 -raw-time 7 -fps 31
-02:36:39.454 [] -time 33 -raw-time 8 -fps 31
-02:36:39.490 [] -time 33 -raw-time 6 -fps 31
-02:36:39.519 [] -time 33 -raw-time 9 -fps 31
-02:36:39.553 [] -time 33 -raw-time 5 -fps 31
-02:36:39.586 [] -time 33 -raw-time 5 -fps 31
-02:36:39.621 [] -time 33 -raw-time 5 -fps 31
-02:36:39.651 [] -time 33 -raw-time 7 -fps 31
-02:36:39.684 [] -time 33 -raw-time 5 -fps 31
-02:36:39.718 [] -time 33 -raw-time 3 -fps 31
-02:36:39.751 [] -time 33 -raw-time 4 -fps 31
-02:36:39.784 [] -time 33 -raw-time 4 -fps 31
-02:36:39.817 [] -time 33 -raw-time 4 -fps 31
-02:36:39.850 [] -time 33 -raw-time 4 -fps 31
-02:36:39.883 [] -time 33 -raw-time 4 -fps 31
-02:36:39.916 [] -time 33 -raw-time 4 -fps 31
-02:36:39.949 [] -time 33 -raw-time 4 -fps 31
-02:36:39.982 [] -time 33 -raw-time 4 -fps 31
-02:36:40.015 [] -time 33 -raw-time 4 -fps 31
-02:36:40.048 [] -time 33 -raw-time 6 -fps 31
-02:36:40.081 [] -time 33 -raw-time 4 -fps 31
-02:36:40.114 [] -time 33 -raw-time 4 -fps 31
-02:36:40.147 [] -time 33 -raw-time 4 -fps 31
-02:36:40.185 [] -time 33 -raw-time 4 -fps 31
-02:36:40.213 [] -time 33 -raw-time 10 -fps 31
-02:36:40.246 [] -time 33 -raw-time 5 -fps 31
-02:36:40.279 [] -time 33 -raw-time 6 -fps 31
-02:36:40.312 [] -time 33 -raw-time 4 -fps 31
-02:36:40.347 [] -time 33 -raw-time 5 -fps 31
-02:36:40.382 [] -time 33 -raw-time 7 -fps 31
-02:36:40.417 [] -time 33 -raw-time 9 -fps 31
-02:36:40.446 [] -time 33 -raw-time 12 -fps 31
-02:36:40.477 [] -time 33 -raw-time 6 -fps 31
-02:36:40.510 [] -time 33 -raw-time 6 -fps 31
-02:36:40.543 [] -time 33 -raw-time 5 -fps 31
-02:36:40.576 [] -time 33 -raw-time 5 -fps 31
-02:36:40.610 [] -time 33 -raw-time 6 -fps 31
-02:36:40.644 [] -time 33 -raw-time 7 -fps 31
-02:36:40.679 [] -time 33 -raw-time 8 -fps 31
-02:36:40.708 [] -time 33 -raw-time 10 -fps 31
-02:36:40.741 [] -time 33 -raw-time 5 -fps 31
-02:36:40.774 [] -time 33 -raw-time 4 -fps 31
-02:36:40.808 [] -time 33 -raw-time 4 -fps 31
-02:36:40.841 [] -time 33 -raw-time 5 -fps 31
-02:36:40.876 [] -time 33 -raw-time 6 -fps 31
-02:36:40.911 [] -time 33 -raw-time 8 -fps 31
-02:36:40.940 [] -time 33 -raw-time 11 -fps 31
-02:36:40.972 [] -time 33 -raw-time 5 -fps 31
-02:36:41.005 [] -time 33 -raw-time 4 -fps 31
-02:36:41.039 [] -time 33 -raw-time 4 -fps 31
-02:36:41.074 [] -time 33 -raw-time 5 -fps 31
-02:36:41.110 [] -time 33 -raw-time 7 -fps 31
-02:36:41.138 [] -time 33 -raw-time 11 -fps 31
-02:36:41.170 [] -time 33 -raw-time 5 -fps 31
-02:36:41.203 [] -time 33 -raw-time 4 -fps 31
-02:36:41.237 [] -time 33 -raw-time 4 -fps 31
-02:36:41.272 [] -time 33 -raw-time 5 -fps 31
-02:36:41.306 [] -time 33 -raw-time 7 -fps 31
-02:36:41.339 [] -time 33 -raw-time 9 -fps 31
-02:36:41.368 [] -time 33 -raw-time 10 -fps 31
-02:36:41.401 [] -time 33 -raw-time 5 -fps 31
-02:36:41.434 [] -time 33 -raw-time 4 -fps 31
-02:36:41.467 [] -time 33 -raw-time 4 -fps 31
-02:36:41.501 [] -time 33 -raw-time 5 -fps 31
-02:36:41.537 [] -time 33 -raw-time 7 -fps 31
-02:36:41.565 [] -time 33 -raw-time 10 -fps 31
-02:36:41.598 [] -time 33 -raw-time 5 -fps 31
-02:36:41.631 [] -time 33 -raw-time 4 -fps 31
-02:36:41.670 [] -time 33 -raw-time 4 -fps 31
-02:36:41.699 [] -time 33 -raw-time 11 -fps 31
-02:36:41.731 [] -time 33 -raw-time 5 -fps 31
-02:36:41.765 [] -time 33 -raw-time 4 -fps 31
-02:36:41.799 [] -time 33 -raw-time 5 -fps 31
-02:36:41.836 [] -time 33 -raw-time 7 -fps 31
-02:36:41.864 [] -time 33 -raw-time 11 -fps 31
-02:36:41.902 [] -time 33 -raw-time 5 -fps 31
-02:36:41.929 [] -time 33 -raw-time 11 -fps 31
-02:36:41.962 [] -time 33 -raw-time 4 -fps 31
+13:35:05.149 [] -time 0 -raw-time 0 -fps 0
+13:35:05.150 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.152 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.154 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.155 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.156 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.157 [] -time 0 -raw-time 0 -fps 0
+13:35:05.158 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.159 [] -time 0 -raw-time 0 -fps 0
+13:35:05.160 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.160 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.162 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.165 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.167 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.168 [] -time 0 -raw-time 0 -fps 0
+13:35:05.169 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.170 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.171 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.172 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.173 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.174 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.174 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.175 [] -time 0 -raw-time 0 -fps 0
+13:35:05.176 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.177 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.178 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.179 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.179 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.180 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.183 [] -time 0 -raw-time 0 -fps 0
+13:35:05.185 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.186 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.187 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.188 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.189 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.190 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.191 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.191 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.193 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.194 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.195 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.197 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.198 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.199 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.200 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.200 [] -time 0 -raw-time 0 -fps 0
+13:35:05.201 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.202 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.203 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.204 [] -time 0 -raw-time 0 -fps 0
+13:35:05.204 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.205 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.206 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.207 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.208 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.208 [] -time 0 -raw-time 0 -fps 0
+13:35:05.209 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.210 [] -time 0 -raw-time 0 -fps 0
+13:35:05.211 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.211 [] -time 0 -raw-time 0 -fps 0
+13:35:05.212 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.213 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.214 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.215 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.215 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.216 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.217 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.218 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.219 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.219 [] -time 0 -raw-time 0 -fps 0
+13:35:05.220 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.221 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.222 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.222 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.223 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.224 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.225 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.226 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.226 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.227 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.228 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.229 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.229 [] -time 0 -raw-time 0 -fps 0
+13:35:05.230 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.231 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.232 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.233 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.233 [] -time 0 -raw-time 0 -fps 0
+13:35:05.234 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.235 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.236 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.237 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.237 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.238 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.239 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.240 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.241 [] -time 0 -raw-time 0 -fps 0
+13:35:05.241 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.242 [] -time 0 -raw-time 0 -fps 0
+13:35:05.243 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.244 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.244 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.245 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.248 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.249 [] -time 0 -raw-time 0 -fps 0
+13:35:05.250 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.250 [] -time 0 -raw-time 0 -fps 0
+13:35:05.251 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.254 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.255 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.256 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.257 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.257 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.258 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.259 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.260 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.260 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.261 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.262 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.263 [] -time 0 -raw-time 0 -fps 0
+13:35:05.264 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.265 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.266 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.266 [] -time 0 -raw-time 0 -fps 0
+13:35:05.267 [] -time 0 -raw-time 0 -fps 0
+13:35:05.268 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.269 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.270 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.270 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.271 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.272 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.273 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.273 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.274 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.275 [] -time 0 -raw-time 0 -fps 0
+13:35:05.276 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.277 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.278 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.278 [] -time 0 -raw-time 0 -fps 0
+13:35:05.279 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.280 [] -time 0 -raw-time 0 -fps 0
+13:35:05.281 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.281 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.282 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.283 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.284 [] -time 0 -raw-time 0 -fps 0
+13:35:05.285 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.285 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.286 [] -time 0 -raw-time 0 -fps 0
+13:35:05.287 [] -time 0 -raw-time 0 -fps 0
+13:35:05.288 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.289 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.290 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.291 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.291 [] -time 0 -raw-time 0 -fps 0
+13:35:05.292 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.293 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.294 [] -time 0 -raw-time 0 -fps 0
+13:35:05.295 [] -time 0 -raw-time 0 -fps 0
+13:35:05.295 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.296 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.297 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.298 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.299 [] -time 0 -raw-time 0 -fps 0
+13:35:05.300 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.300 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.301 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.302 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.303 [] -time 0 -raw-time 0 -fps 0
+13:35:05.304 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.306 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.307 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.308 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.309 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.310 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.310 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.311 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.312 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.313 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.314 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.315 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.315 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.316 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.317 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.318 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.318 [] -time 0 -raw-time 0 -fps 0
+13:35:05.319 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.320 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.321 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.322 [] -time 0 -raw-time 0 -fps 0
+13:35:05.322 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.323 [] -time 0 -raw-time 0 -fps 0
+13:35:05.324 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.325 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.326 [] -time 0 -raw-time 0 -fps 0
+13:35:05.326 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.327 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.328 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.329 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.330 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.330 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.331 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.332 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.333 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.334 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.335 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.335 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.336 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.337 [] -time 0 -raw-time 0 -fps 0
+13:35:05.338 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.338 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.341 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.342 [] -time 0 -raw-time 0 -fps 0
+13:35:05.343 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.344 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.345 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.345 [] -time 0 -raw-time 0 -fps 0
+13:35:05.346 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.347 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.348 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.349 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.349 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.350 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.351 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.352 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.353 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.354 [] -time 0 -raw-time 0 -fps 0
+13:35:05.354 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.355 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.356 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.357 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.358 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.358 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.359 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.360 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.361 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.362 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.363 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.364 [] -time 0 -raw-time 0 -fps 0
+13:35:05.364 [] -time 0 -raw-time 0 -fps 0
+13:35:05.365 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.366 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.367 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.367 [] -time 0 -raw-time 0 -fps 0
+13:35:05.368 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.369 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.370 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.370 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.374 [] -time 0 -raw-time 0 -fps 0
+13:35:05.374 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.375 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.376 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.377 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.378 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.378 [] -time 0 -raw-time 0 -fps 0
+13:35:05.379 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.380 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.381 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.382 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.382 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.383 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.384 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.385 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.386 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.386 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.387 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.388 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.391 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.392 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.392 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.393 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.394 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.395 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.396 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.396 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.397 [] -time 0 -raw-time 0 -fps 0
+13:35:05.398 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.399 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.400 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.400 [] -time 0 -raw-time 0 -fps 0
+13:35:05.401 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.402 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.403 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.404 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.405 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.405 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.406 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.407 [] -time 0 -raw-time 0 -fps 0
+13:35:05.408 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.408 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.409 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.410 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.411 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.412 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.413 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.428 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.429 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.430 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.431 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.432 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.433 [] -time 0 -raw-time 0 -fps 0
+13:35:05.434 [] -time 0 -raw-time 0 -fps 0
+13:35:05.435 [] -time 0 -raw-time 0 -fps 0
+13:35:05.436 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.437 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.438 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.439 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.440 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.441 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.442 [] -time 0 -raw-time 0 -fps 0
+13:35:05.442 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.443 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.444 [] -time 0 -raw-time 0 -fps 0
+13:35:05.445 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.446 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.447 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.448 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.448 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.449 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.450 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.451 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.452 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.453 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.453 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.454 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.455 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.456 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.459 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.460 [] -time 0 -raw-time 0 -fps 0
+13:35:05.460 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.461 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.462 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.463 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.463 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.464 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.465 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.466 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.467 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.467 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.468 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.469 [] -time 0 -raw-time 0 -fps 0
+13:35:05.470 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.470 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.471 [] -time 0 -raw-time 0 -fps 0
+13:35:05.472 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.473 [] -time 0 -raw-time 0 -fps 0
+13:35:05.474 [] -time 0 -raw-time 0 -fps 0
+13:35:05.474 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.475 [] -time 0 -raw-time 0 -fps 0
+13:35:05.476 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.477 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.477 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.478 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.479 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.480 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.481 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.481 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.482 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.483 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.484 [] -time 0 -raw-time 0 -fps 0
+13:35:05.486 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.487 [] -time 0 -raw-time 0 -fps 0
+13:35:05.489 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.490 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.492 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.493 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.495 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.496 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.497 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.498 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.499 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.500 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.501 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.501 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.502 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.503 [] -time 0 -raw-time 0 -fps 0
+13:35:05.504 [] -time 0 -raw-time 0 -fps 0
+13:35:05.505 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.505 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.506 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.507 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.508 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.509 [] -time 0 -raw-time 0 -fps 0
+13:35:05.509 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.512 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.513 [] -time 0 -raw-time 0 -fps 0
+13:35:05.514 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.515 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.515 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.516 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.517 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.518 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.519 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.520 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.520 [] -time 0 -raw-time 0 -fps 0
+13:35:05.521 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.522 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.523 [] -time 0 -raw-time 0 -fps 0
+13:35:05.524 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.524 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.525 [] -time 0 -raw-time 0 -fps 0
+13:35:05.526 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.527 [] -time 0 -raw-time 0 -fps 0
+13:35:05.528 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.528 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.529 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.530 [] -time 0 -raw-time 0 -fps 0
+13:35:05.531 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.532 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.532 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.533 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.534 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.535 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.535 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.536 [] -time 0 -raw-time 0 -fps 0
+13:35:05.537 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.538 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.539 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.539 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.540 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.541 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.542 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.542 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.543 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.544 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.545 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.546 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.546 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.547 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.548 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.549 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.550 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.550 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.551 [] -time 0 -raw-time 0 -fps 0
+13:35:05.552 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.553 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.553 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.554 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.557 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.558 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.559 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.560 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.560 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.561 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.562 [] -time 0 -raw-time 0 -fps 0
+13:35:05.563 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.563 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.564 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.565 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.566 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.567 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.567 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.568 [] -time 0 -raw-time 0 -fps 0
+13:35:05.569 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.570 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.571 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.571 [] -time 0 -raw-time 0 -fps 0
+13:35:05.572 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.573 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.574 [] -time 0 -raw-time 0 -fps 0
+13:35:05.574 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.575 [] -time 0 -raw-time 0 -fps 0
+13:35:05.576 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.577 [] -time 0 -raw-time 0 -fps 0
+13:35:05.578 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.578 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.579 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.580 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.581 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.581 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.582 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.583 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.584 [] -time 0 -raw-time 0 -fps 0
+13:35:05.585 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.585 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.586 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.587 [] -time 0 -raw-time 0 -fps 0
+13:35:05.588 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.588 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.589 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.590 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.591 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.592 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.592 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.593 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.594 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.595 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.596 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.596 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.597 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.598 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.599 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.600 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.600 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.601 [] -time 0 -raw-time 0 -fps 0
+13:35:05.602 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.603 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.604 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.604 [] -time 0 -raw-time 0 -fps 0
+13:35:05.605 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.606 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.607 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.607 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.608 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.609 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.610 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.610 [] -time 0 -raw-time 0 -fps 0
+13:35:05.611 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.612 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.613 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.616 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.617 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.617 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.618 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.619 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.620 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.621 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.621 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.622 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.623 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.624 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.625 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.626 [] -time 0 -raw-time 0 -fps 0
+13:35:05.626 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.627 [] -time 0 -raw-time 0 -fps 0
+13:35:05.628 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.629 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.629 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.630 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.631 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.632 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.633 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.633 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.634 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.635 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.636 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.637 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.637 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.638 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.639 [] -time 0 -raw-time 0 -fps 0
+13:35:05.640 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.640 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.641 [] -time 0 -raw-time 0 -fps 0
+13:35:05.642 [] -time 0 -raw-time 0 -fps 0
+13:35:05.643 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.644 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.644 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.645 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.646 [] -time 0 -raw-time 0 -fps 0
+13:35:05.647 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.647 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.648 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.649 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.650 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.653 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.653 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.654 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.655 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.656 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.657 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.657 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.658 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.659 [] -time 0 -raw-time 0 -fps 0
+13:35:05.660 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.660 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.661 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.662 [] -time 0 -raw-time 0 -fps 0
+13:35:05.663 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.664 [] -time 0 -raw-time 0 -fps 0
+13:35:05.664 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.665 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.666 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.667 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.668 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.668 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.669 [] -time 0 -raw-time 0 -fps 0
+13:35:05.670 [] -time 0 -raw-time 0 -fps 0
+13:35:05.671 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.672 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.672 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.673 [] -time 0 -raw-time 0 -fps 0
+13:35:05.674 [] -time 0 -raw-time 0 -fps 0
+13:35:05.675 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.676 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.676 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.677 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.678 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.679 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.679 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.680 [] -time 0 -raw-time 0 -fps 0
+13:35:05.681 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.682 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.683 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.683 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.684 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.685 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.686 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.686 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.687 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.688 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.689 [] -time 0 -raw-time 0 -fps 0
+13:35:05.689 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.690 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.691 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.692 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.693 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.693 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.694 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.695 [] -time 0 -raw-time 0 -fps 0
+13:35:05.696 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.697 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.697 [] -time 0 -raw-time 0 -fps 0
+13:35:05.698 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.699 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.700 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.701 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.701 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.702 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.703 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.704 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.705 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.705 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.706 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.707 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.708 [] -time 0 -raw-time 0 -fps 0
+13:35:05.708 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.709 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.710 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.711 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.712 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.712 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.713 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.714 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.715 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.716 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.716 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.717 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.718 [] -time 0 -raw-time 0 -fps 0
+13:35:05.719 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.720 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.720 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.721 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.722 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.723 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.723 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.726 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.727 [] -time 0 -raw-time 0 -fps 0
+13:35:05.728 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.729 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.729 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.730 [] -time 0 -raw-time 0 -fps 0
+13:35:05.731 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.732 [] -time 0 -raw-time 0 -fps 0
+13:35:05.733 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.733 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.734 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.735 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.736 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.736 [] -time 0 -raw-time 0 -fps 0
+13:35:05.737 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.738 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.739 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.740 [] -time 0 -raw-time 0 -fps 0
+13:35:05.755 [] -time 0 -raw-time 0 -fps 0
+13:35:05.756 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.757 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.758 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.759 [] -time 0 -raw-time 0 -fps 0
+13:35:05.760 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.760 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.761 [] -time 0 -raw-time 0 -fps 0
+13:35:05.763 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.763 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.764 [] -time 0 -raw-time 0 -fps 0
+13:35:05.765 [] -time 0 -raw-time 0 -fps 0
+13:35:05.766 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.767 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.768 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.769 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.770 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.771 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.772 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.773 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.774 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.774 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.775 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.776 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.777 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.778 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.779 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.780 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.781 [] -time 0 -raw-time 0 -fps 0
+13:35:05.781 [] -time 0 -raw-time 0 -fps 0
+13:35:05.782 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.783 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.784 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.784 [] -time 0 -raw-time 0 -fps 0
+13:35:05.785 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.786 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.787 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.787 [] -time 0 -raw-time 0 -fps 0
+13:35:05.788 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.789 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.790 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.791 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.791 [] -time 0 -raw-time 0 -fps 0
+13:35:05.792 [] -time 0 -raw-time 0 -fps 0
+13:35:05.793 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.794 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.794 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.795 [] -time 0 -raw-time 0 -fps 0
+13:35:05.796 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.797 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.798 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.798 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.799 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.800 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.801 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.801 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.802 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.803 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.804 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.805 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.805 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.806 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.809 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.810 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.811 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.812 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.812 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.813 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.814 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.815 [] -time 0 -raw-time 0 -fps 0
+13:35:05.815 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.816 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.817 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.818 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.819 [] -time 0 -raw-time 0 -fps 0
+13:35:05.819 [] -time 0 -raw-time 0 -fps 0
+13:35:05.820 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.823 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.824 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.825 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.826 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.826 [] -time 0 -raw-time 0 -fps 0
+13:35:05.827 [] -time 0 -raw-time 0 -fps 0
+13:35:05.828 [] -time 0 -raw-time 0 -fps 0
+13:35:05.829 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.830 [] -time 0 -raw-time 0 -fps 0
+13:35:05.830 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.831 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.832 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.833 [] -time 0 -raw-time 0 -fps 0
+13:35:05.833 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.834 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.835 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.836 [] -time 0 -raw-time 0 -fps 0
+13:35:05.837 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.838 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.838 [] -time 0 -raw-time 0 -fps 0
+13:35:05.839 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.840 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.841 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.841 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.842 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.843 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.844 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.845 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.845 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.846 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.847 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.848 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.849 [] -time 0 -raw-time 0 -fps 0
+13:35:05.849 [] -time 0 -raw-time 0 -fps 0
+13:35:05.850 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.851 [] -time 0 -raw-time 0 -fps 0
+13:35:05.852 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.852 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.853 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.854 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.855 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.856 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.856 [] -time 0 -raw-time 0 -fps 0
+13:35:05.857 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.858 [] -time 0 -raw-time 0 -fps 0
+13:35:05.859 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.860 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.860 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.861 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.862 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.863 [] -time 0 -raw-time 0 -fps 0
+13:35:05.863 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.864 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.865 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.866 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.867 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.867 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.868 [] -time 0 -raw-time 0 -fps 0
+13:35:05.869 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.870 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.870 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.871 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.872 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.873 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.874 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.874 [] -time 0 -raw-time 0 -fps 0
+13:35:05.875 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.876 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.877 [] -time 0 -raw-time 0 -fps 0
+13:35:05.878 [] -time 0 -raw-time 0 -fps 0
+13:35:05.878 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.879 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.880 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.881 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.881 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.882 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.883 [] -time 0 -raw-time 0 -fps 0
+13:35:05.884 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.885 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.885 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.886 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.887 [] -time 0 -raw-time 0 -fps 0
+13:35:05.888 [] -time 0 -raw-time 0 -fps 0
+13:35:05.889 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.889 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.890 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.891 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.892 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.892 [] -time 0 -raw-time 0 -fps 0
+13:35:05.893 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.894 [] -time 0 -raw-time 0 -fps 0
+13:35:05.895 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.896 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.896 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.897 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.898 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.899 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.899 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.900 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.901 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.902 [] -time 0 -raw-time 0 -fps 0
+13:35:05.902 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.903 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.904 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.905 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.906 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.906 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.907 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.908 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.909 [] -time 0 -raw-time 0 -fps 0
+13:35:05.909 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.910 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.911 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.912 [] -time 0 -raw-time 0 -fps 0
+13:35:05.912 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.913 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.914 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.915 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.916 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.916 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.917 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.918 [] -time 0 -raw-time 0 -fps 0
+13:35:05.918 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.919 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.920 [] -time 0 -raw-time 0 -fps 0
+13:35:05.921 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.922 [] -time 0 -raw-time 0 -fps 0
+13:35:05.922 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.923 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.924 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.925 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.925 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.926 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.927 [] -time 0 -raw-time 0 -fps 0
+13:35:05.928 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.928 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.929 [] -time 0 -raw-time 0 -fps 0
+13:35:05.930 [] -time 0 -raw-time 0 -fps 0
+13:35:05.931 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.931 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.932 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.933 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.934 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.935 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.935 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.936 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.937 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.938 [] -time 0 -raw-time 0 -fps 0
+13:35:05.938 [] -time 0 -raw-time 0 -fps 0
+13:35:05.939 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.940 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.941 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.941 [] -time 0 -raw-time 0 -fps 0
+13:35:05.942 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.943 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.944 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.944 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.945 [] -time 0 -raw-time 0 -fps 0
+13:35:05.946 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.947 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.947 [] -time 0 -raw-time 0 -fps 0
+13:35:05.948 [] -time 0 -raw-time 0 -fps 0
+13:35:05.949 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.950 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.952 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.953 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.954 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.955 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.956 [] -time 0 -raw-time 0 -fps 0
+13:35:05.956 [] -time 0 -raw-time 0 -fps 0
+13:35:05.957 [] -time 0 -raw-time 0 -fps 0
+13:35:05.958 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.959 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.959 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.960 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.961 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.962 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.962 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.963 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.966 [] -time 0 -raw-time 0 -fps 0
+13:35:05.967 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.968 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.968 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.969 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.970 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.971 [] -time 0 -raw-time 0 -fps 0
+13:35:05.972 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.973 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.973 [] -time 0 -raw-time 0 -fps 0
+13:35:05.974 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.975 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.976 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.976 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.977 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.978 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.979 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.980 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.980 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.981 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.982 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.983 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.984 [] -time 0 -raw-time 0 -fps 0
+13:35:05.984 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.985 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.987 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.988 [] -time 0 -raw-time 0 -fps 0
+13:35:05.989 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.990 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.991 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.992 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.993 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.994 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.994 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.995 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.996 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:05.997 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.997 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:05.998 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:05.999 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.000 [] -time 0 -raw-time 0 -fps 0
+13:35:06.003 [] -time 0 -raw-time 0 -fps 0
+13:35:06.004 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.004 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.005 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.006 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.007 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.007 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.008 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.009 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.010 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.010 [] -time 0 -raw-time 0 -fps 0
+13:35:06.011 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.012 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.013 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.014 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.014 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.017 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.018 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.019 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.020 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.021 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.021 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.022 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.023 [] -time 0 -raw-time 0 -fps 0
+13:35:06.024 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.024 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.025 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.026 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.027 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.027 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.028 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.029 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.030 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.031 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.031 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.032 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.033 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.034 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.034 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.035 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.036 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.037 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.038 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.038 [] -time 0 -raw-time 0 -fps 0
+13:35:06.039 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.040 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.041 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.042 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.042 [] -time 0 -raw-time 0 -fps 0
+13:35:06.043 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.044 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.045 [] -time 0 -raw-time 0 -fps 0
+13:35:06.045 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.046 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.047 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.048 [] -time 0 -raw-time 0 -fps 0
+13:35:06.048 [] -time 0 -raw-time 0 -fps 0
+13:35:06.049 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.050 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.051 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.052 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.053 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.053 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.054 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.055 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.056 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.056 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.057 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.058 [] -time 0 -raw-time 0 -fps 0
+13:35:06.059 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.060 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.060 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.061 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.062 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.063 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.063 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.064 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.065 [] -time 0 -raw-time 0 -fps 0
+13:35:06.066 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.066 [] -time 0 -raw-time 0 -fps 0
+13:35:06.067 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.068 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.069 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.069 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.070 [] -time 0 -raw-time 0 -fps 0
+13:35:06.071 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.072 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.073 [] -time 0 -raw-time 0 -fps 0
+13:35:06.073 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.074 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.075 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.076 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.076 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.077 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.078 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.079 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.080 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.081 [] -time 0 -raw-time 0 -fps 0
+13:35:06.081 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.082 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.083 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.084 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.084 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.085 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.086 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.087 [] -time 0 -raw-time 0 -fps 0
+13:35:06.088 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.088 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.089 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.090 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.091 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.091 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.092 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.093 [] -time 0 -raw-time 0 -fps 0
+13:35:06.094 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.094 [] -time 0 -raw-time 0 -fps 0
+13:35:06.095 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.096 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.097 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.098 [] -time 0 -raw-time 0 -fps 0
+13:35:06.098 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.099 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.100 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.101 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.101 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.102 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.103 [] -time 0 -raw-time 0 -fps 0
+13:35:06.104 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.104 [] -time 0 -raw-time 0 -fps 0
+13:35:06.105 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.106 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.107 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.108 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.108 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.109 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.110 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.111 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.111 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.112 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.113 [] -time 0 -raw-time 0 -fps 0
+13:35:06.114 [] -time 0 -raw-time 0 -fps 0
+13:35:06.114 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.115 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.116 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.117 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.117 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.118 [] -time 0 -raw-time 0 -fps 0
+13:35:06.119 [] -time 0 -raw-time 0 -fps 0
+13:35:06.120 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.120 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.121 [] -time 0 -raw-time 0 -fps 0
+13:35:06.122 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.123 [] -time 0 -raw-time 0 -fps 0
+13:35:06.123 [] -time 0 -raw-time 0 -fps 0
+13:35:06.124 [] -time 0 -raw-time 0 -fps 0
+13:35:06.125 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.126 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.126 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.127 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.128 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.131 [] -time 0 -raw-time 0 -fps 0
+13:35:06.132 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.132 [] -time 0 -raw-time 0 -fps 0
+13:35:06.133 [] -time 0 -raw-time 0 -fps 0
+13:35:06.136 [] -time 0 -raw-time 0 -fps 0
+13:35:06.137 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.138 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.139 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.139 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.140 [] -time 0 -raw-time 0 -fps 0
+13:35:06.141 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.142 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.142 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.143 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.144 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.145 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.145 [] -time 0 -raw-time 0 -fps 0
+13:35:06.146 [] -time 0 -raw-time 0 -fps 0
+13:35:06.147 [] -time 0 -raw-time 0 -fps 0
+13:35:06.148 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.149 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.149 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.150 [] -time 0 -raw-time 0 -fps 0
+13:35:06.151 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.152 [] -time 0 -raw-time 0 -fps 0
+13:35:06.152 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.153 [] -time 0 -raw-time 0 -fps 0
+13:35:06.154 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.155 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.156 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.156 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.157 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.158 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.159 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.159 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.160 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.161 [] -time 0 -raw-time 0 -fps 0
+13:35:06.162 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.162 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.163 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.164 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.165 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.166 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.166 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.167 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.168 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.169 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.169 [] -time 0 -raw-time 0 -fps 0
+13:35:06.170 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.171 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.172 [] -time 0 -raw-time 0 -fps 0
+13:35:06.172 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.173 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.174 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.175 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.176 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.176 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.177 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.178 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.179 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.179 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.180 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.181 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.182 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.182 [] -time 0 -raw-time 0 -fps 0
+13:35:06.183 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.184 [] -time 0 -raw-time 0 -fps 0
+13:35:06.185 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.186 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.186 [] -time 0 -raw-time 0 -fps 0
+13:35:06.187 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.188 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.189 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.189 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.190 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.191 [] -time 0 -raw-time 0 -fps 0
+13:35:06.192 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.192 [] -time 0 -raw-time 0 -fps 0
+13:35:06.193 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.194 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.195 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.196 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.196 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.197 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.199 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.200 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.202 [] -time 0 -raw-time 0 -fps 0
+13:35:06.203 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.204 [] -time 0 -raw-time 0 -fps 0
+13:35:06.204 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.205 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.206 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.207 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.207 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.208 [] -time 0 -raw-time 0 -fps 0
+13:35:06.209 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.210 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.210 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.211 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.212 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.213 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.228 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.229 [] -time 0 -raw-time 0 -fps 0
+13:35:06.230 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.231 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.232 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.233 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.233 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.234 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.236 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.237 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.238 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.238 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.239 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.240 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.241 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.242 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.243 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.243 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.244 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.245 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.246 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.247 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.248 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.249 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.249 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.250 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.251 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.252 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.253 [] -time 0 -raw-time 0 -fps 0
+13:35:06.254 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.254 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.255 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.258 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.259 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.260 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.261 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.261 [] -time 0 -raw-time 0 -fps 0
+13:35:06.262 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.263 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.264 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.264 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.265 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.266 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.267 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.268 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.268 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.269 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.270 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.271 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.272 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.272 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.273 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.274 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.275 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.276 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.276 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.277 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.278 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.279 [] -time 0 -raw-time 0 -fps 0
+13:35:06.279 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.280 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.281 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.282 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.283 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.283 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.284 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.285 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.286 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.286 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.288 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.288 [] -time 0 -raw-time 0 -fps 0
+13:35:06.289 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.290 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.291 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.292 [] -time 0 -raw-time 0 -fps 0
+13:35:06.292 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.293 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.294 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.295 [] -time 0 -raw-time 0 -fps 0
+13:35:06.295 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.296 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.297 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.298 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.299 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.300 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.300 [] -time 0 -raw-time 0 -fps 0
+13:35:06.301 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.304 [] -time 0 -raw-time 0 -fps 0
+13:35:06.305 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.306 [] -time 0 -raw-time 0 -fps 0
+13:35:06.307 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.307 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.308 [] -time 0 -raw-time 0 -fps 0
+13:35:06.309 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.310 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.311 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.311 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.312 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.313 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.314 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.315 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.316 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.316 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.317 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.318 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.319 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.319 [] -time 0 -raw-time 0 -fps 0
+13:35:06.320 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.321 [] -time 0 -raw-time 0 -fps 0
+13:35:06.324 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.325 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.325 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.326 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.327 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.328 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.329 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.329 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.330 [] -time 0 -raw-time 0 -fps 0
+13:35:06.331 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.332 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.333 [] -time 0 -raw-time 0 -fps 0
+13:35:06.333 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.334 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.335 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.336 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.336 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.337 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.338 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.339 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.340 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.340 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.341 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.342 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.343 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.343 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.344 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.345 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.346 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.346 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.347 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.348 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.349 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.350 [] -time 0 -raw-time 0 -fps 0
+13:35:06.350 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.351 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.352 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.353 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.353 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.354 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.355 [] -time 0 -raw-time 0 -fps 0
+13:35:06.356 [] -time 0 -raw-time 0 -fps 0
+13:35:06.356 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.357 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.358 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.359 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.360 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.360 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.363 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.364 [] -time 0 -raw-time 0 -fps 0
+13:35:06.365 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.366 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.366 [] -time 0 -raw-time 0 -fps 0
+13:35:06.367 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.368 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.369 [] -time 0 -raw-time 0 -fps 0
+13:35:06.370 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.370 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.371 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.372 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.373 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.373 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.374 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.375 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.376 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.376 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.377 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.378 [] -time 0 -raw-time 0 -fps 0
+13:35:06.379 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.380 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.380 [] -time 0 -raw-time 0 -fps 0
+13:35:06.381 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.382 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.383 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.383 [] -time 0 -raw-time 0 -fps 0
+13:35:06.384 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.387 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.388 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.389 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.389 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.390 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.391 [] -time 0 -raw-time 0 -fps 0
+13:35:06.392 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.392 [] -time 0 -raw-time 0 -fps 0
+13:35:06.393 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.394 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.395 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.395 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.396 [] -time 0 -raw-time 0 -fps 0
+13:35:06.397 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.398 [] -time 0 -raw-time 0 -fps 0
+13:35:06.399 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.399 [] -time 0 -raw-time 0 -fps 0
+13:35:06.400 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.401 [] -time 0 -raw-time 0 -fps 0
+13:35:06.402 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.402 [] -time 0 -raw-time 0 -fps 0
+13:35:06.403 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.404 [] -time 0 -raw-time 0 -fps 0
+13:35:06.405 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.406 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.406 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.407 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.408 [] -time 0 -raw-time 0 -fps 0
+13:35:06.409 [] -time 0 -raw-time 0 -fps 0
+13:35:06.410 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.410 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.411 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.412 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.413 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.413 [] -time 0 -raw-time 0 -fps 0
+13:35:06.414 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.415 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.416 [] -time 0 -raw-time 0 -fps 0
+13:35:06.417 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.417 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.418 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.419 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.420 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.420 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.421 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.422 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.423 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.423 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.424 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.425 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.426 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.427 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.427 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.428 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.429 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.430 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.430 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.431 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.432 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.433 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.433 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.434 [] -time 0 -raw-time 0 -fps 0
+13:35:06.435 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.436 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.437 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.437 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.438 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.439 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.440 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.440 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.441 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.442 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.443 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.443 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.444 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.460 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.461 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.462 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.462 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.463 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.464 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.465 [] -time 0 -raw-time 0 -fps 0
+13:35:06.466 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.467 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.468 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.469 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.470 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.471 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.472 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.473 [] -time 0 -raw-time 0 -fps 0
+13:35:06.474 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.475 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.478 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.479 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.480 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.481 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.482 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.483 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.484 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.484 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.485 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.486 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.487 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.487 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.488 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.489 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.490 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.491 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.494 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.494 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.495 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.496 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.497 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.498 [] -time 0 -raw-time 0 -fps 0
+13:35:06.498 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.499 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.500 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.501 [] -time 0 -raw-time 0 -fps 0
+13:35:06.502 [] -time 0 -raw-time 0 -fps 0
+13:35:06.502 [] -time 0 -raw-time 0 -fps 0
+13:35:06.503 [] -time 0 -raw-time 0 -fps 0
+13:35:06.504 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.505 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.506 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.506 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.507 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.508 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.509 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.509 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.510 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.511 [] -time 0 -raw-time 0 -fps 0
+13:35:06.512 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.513 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.513 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.514 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.515 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.516 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.517 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.517 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.518 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.519 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.520 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.520 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.521 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.522 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.523 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.524 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.525 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.525 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.526 [] -time 0 -raw-time 0 -fps 0
+13:35:06.527 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.528 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.528 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.529 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.530 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.531 [] -time 0 -raw-time 0 -fps 0
+13:35:06.532 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.532 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.533 [] -time 0 -raw-time 0 -fps 0
+13:35:06.534 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.535 [] -time 0 -raw-time 0 -fps 0
+13:35:06.535 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.536 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.537 [] -time 0 -raw-time 0 -fps 0
+13:35:06.538 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.538 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.539 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.542 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.543 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.544 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.545 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.545 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.546 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.547 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.548 [] -time 0 -raw-time 0 -fps 0
+13:35:06.548 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.549 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.550 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.551 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.552 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.552 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.553 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.554 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.555 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.555 [] -time 0 -raw-time 0 -fps 0
+13:35:06.556 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.557 [] -time 0 -raw-time 0 -fps 0
+13:35:06.558 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.559 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.559 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.560 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.561 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.562 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.563 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.563 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.564 [] -time 0 -raw-time 0 -fps 0
+13:35:06.565 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.566 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.566 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.567 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.568 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.569 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.570 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.570 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.571 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.572 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.573 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.573 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.574 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.575 [] -time 0 -raw-time 0 -fps 0
+13:35:06.576 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.577 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.577 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.578 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.579 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.580 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.580 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.581 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.584 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.585 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.585 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.586 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.587 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.588 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.589 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.589 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.590 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.591 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.592 [] -time 0 -raw-time 0 -fps 0
+13:35:06.592 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.593 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.594 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.595 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.596 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.596 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.597 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.598 [] -time 0 -raw-time 0 -fps 0
+13:35:06.599 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.599 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.600 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.601 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.602 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.603 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.603 [] -time 0 -raw-time 0 -fps 0
+13:35:06.604 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.605 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.606 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.606 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.607 [] -time 0 -raw-time 0 -fps 0
+13:35:06.608 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.609 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.612 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.612 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.613 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.614 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.615 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.615 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.616 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.617 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.618 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.619 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.619 [] -time 0 -raw-time 0 -fps 0
+13:35:06.620 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.621 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.622 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.622 [] -time 0 -raw-time 0 -fps 0
+13:35:06.623 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.624 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.625 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.626 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.626 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.627 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.628 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.629 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.629 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.630 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.631 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.632 [] -time 0 -raw-time 0 -fps 0
+13:35:06.633 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.633 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.634 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.635 [] -time 0 -raw-time 0 -fps 0
+13:35:06.636 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.636 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.637 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.638 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.639 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.640 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.640 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.641 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.642 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.643 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.643 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.644 [] -time 0 -raw-time 0 -fps 0
+13:35:06.645 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.646 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.646 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.647 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.648 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.649 [] -time 0 -raw-time 0 -fps 0
+13:35:06.650 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.650 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.651 [] -time 0 -raw-time 0 -fps 0
+13:35:06.652 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.653 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.653 [] -time 0 -raw-time 0 -fps 0
+13:35:06.654 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.655 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.656 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.657 [] -time 0 -raw-time 0 -fps 0
+13:35:06.657 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.658 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.659 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.660 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.660 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.661 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.662 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.663 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.663 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.664 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.665 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.666 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.667 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.667 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.668 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.669 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.670 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.672 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.673 [] -time 0 -raw-time 0 -fps 0
+13:35:06.674 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.675 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.676 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.677 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.677 [] -time 0 -raw-time 0 -fps 0
+13:35:06.678 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.679 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.680 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.680 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.681 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.682 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.683 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.683 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.684 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.685 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.686 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.687 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.687 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.688 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.689 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.690 [] -time 0 -raw-time 0 -fps 0
+13:35:06.690 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.691 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.692 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.693 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.693 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.694 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.695 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.696 [] -time 0 -raw-time 0 -fps 0
+13:35:06.697 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.697 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.698 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.699 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.700 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.700 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.701 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.702 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.703 [] -time 0 -raw-time 0 -fps 0
+13:35:06.703 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.704 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.705 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.706 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.707 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.707 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.708 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.709 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.710 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.710 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.711 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.712 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.713 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.714 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.714 [] -time 0 -raw-time 0 -fps 0
+13:35:06.715 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.716 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.717 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.718 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.718 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.719 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.720 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.721 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.721 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.722 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.723 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.724 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.725 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.725 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.726 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.729 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.743 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.743 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.744 [] -time 0 -raw-time 0 -fps 0
+13:35:06.745 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.748 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.749 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.750 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.751 [] -time 0 -raw-time 0 -fps 0
+13:35:06.752 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.753 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.754 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.755 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.756 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.757 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.757 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.758 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.759 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.760 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.761 [] -time 0 -raw-time 0 -fps 0
+13:35:06.761 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.763 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.764 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.765 [] -time 0 -raw-time 0 -fps 0
+13:35:06.765 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.766 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.767 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.768 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.769 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.769 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.772 [] -time 0 -raw-time 0 -fps 0
+13:35:06.773 [] -time 0 -raw-time 0 -fps 0
+13:35:06.774 [] -time 0 -raw-time 0 -fps 0
+13:35:06.775 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.776 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.776 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.777 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.778 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.779 [] -time 0 -raw-time 0 -fps 0
+13:35:06.779 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.780 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.781 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.782 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.783 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.783 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.784 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.785 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.786 [] -time 0 -raw-time 0 -fps 0
+13:35:06.787 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.787 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.788 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.789 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.790 [] -time 0 -raw-time 0 -fps 0
+13:35:06.790 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.791 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.792 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.793 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.794 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.794 [] -time 0 -raw-time 0 -fps 0
+13:35:06.795 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.796 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.797 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.797 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.798 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.799 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.800 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.800 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.801 [] -time 0 -raw-time 0 -fps 0
+13:35:06.802 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.803 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.804 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.805 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.805 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.806 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.807 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.808 [] -time 0 -raw-time 0 -fps 0
+13:35:06.808 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.809 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.810 [] -time 0 -raw-time 0 -fps 0
+13:35:06.811 [] -time 0 -raw-time 0 -fps 0
+13:35:06.811 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.812 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.813 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.814 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.815 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.815 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.816 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.817 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.818 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.818 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.819 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.820 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.821 [] -time 0 -raw-time 0 -fps 0
+13:35:06.821 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.822 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.823 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.824 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.825 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.825 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.826 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.827 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.828 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.828 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.829 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.830 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.831 [] -time 0 -raw-time 0 -fps 0
+13:35:06.832 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.832 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.833 [] -time 0 -raw-time 0 -fps 0
+13:35:06.834 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.835 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.835 [] -time 0 -raw-time 0 -fps 0
+13:35:06.836 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.837 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.838 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.840 [] -time 0 -raw-time 0 -fps 0
+13:35:06.841 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.842 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.843 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.844 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.844 [] -time 0 -raw-time 0 -fps 0
+13:35:06.845 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.846 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.847 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.847 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.848 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.849 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.850 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.851 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.852 [] -time 0 -raw-time 0 -fps 0
+13:35:06.852 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.853 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.854 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.855 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.855 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.856 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.857 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.858 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.858 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.859 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.860 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.861 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.862 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.862 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.863 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.864 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.865 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.865 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.866 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.867 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.868 [] -time 0 -raw-time 0 -fps 0
+13:35:06.871 [] -time 0 -raw-time 0 -fps 0
+13:35:06.871 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.872 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.873 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.874 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.875 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.875 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.876 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.877 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.878 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.878 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.879 [] -time 0 -raw-time 0 -fps 0
+13:35:06.880 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.881 [] -time 0 -raw-time 0 -fps 0
+13:35:06.882 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.882 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.883 [] -time 0 -raw-time 0 -fps 0
+13:35:06.884 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.885 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.886 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.886 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.887 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.888 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.889 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.889 [] -time 0 -raw-time 0 -fps 0
+13:35:06.890 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.891 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.892 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.893 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.893 [] -time 0 -raw-time 0 -fps 0
+13:35:06.894 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.895 [] -time 0 -raw-time 0 -fps 0
+13:35:06.896 [] -time 0 -raw-time 0 -fps 0
+13:35:06.896 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.897 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.898 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.899 [] -time 0 -raw-time 0 -fps 0
+13:35:06.899 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.900 [] -time 0 -raw-time 0 -fps 0
+13:35:06.901 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.904 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.905 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.905 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.906 [] -time 0 -raw-time 0 -fps 0
+13:35:06.907 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.908 [] -time 0 -raw-time 0 -fps 0
+13:35:06.909 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.909 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.910 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.911 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.912 [] -time 0 -raw-time 0 -fps 0
+13:35:06.913 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.913 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.914 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.915 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.916 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.916 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.917 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.918 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.919 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.920 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.920 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.921 [] -time 0 -raw-time 0 -fps 0
+13:35:06.922 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.923 [] -time 0 -raw-time 0 -fps 0
+13:35:06.923 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.924 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.925 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.926 [] -time 0 -raw-time 0 -fps 0
+13:35:06.926 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.927 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.928 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.929 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.930 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.930 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.931 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.932 [] -time 0 -raw-time 0 -fps 0
+13:35:06.933 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.933 ['MOVE_LEFT'] -time 0 -raw-time 0 -fps 0
+13:35:06.934 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.935 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.936 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.937 ['ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.937 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.938 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.939 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.940 ['MOVE_RIGHT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.941 [] -time 0 -raw-time 0 -fps 0
+13:35:06.941 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.942 ['MOVE_RIGHT'] -time 0 -raw-time 0 -fps 0
+13:35:06.943 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.944 ['MOVE_LEFT', 'ATTACK'] -time 0 -raw-time 0 -fps 0
+13:35:06.944 [] -time 0 -raw-time 0 -fps 0
+13:35:06.945 [] -time 0 -raw-time 0 -fps 0

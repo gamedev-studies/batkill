@@ -8,8 +8,11 @@ from models.backend_player import MOVE_LEFT, MOVE_RIGHT, JUMP, ATTACK
 class BatkillEnv(gym.Env):
     metadata = {'render.modes': ['human', 'rgb_array']}
 
-    def __init__(self) -> None:
-        self.game = Batkill()
+    def __init__(self, max_bats=2, bat_speed=6, attack_cooldown=10, jump=False) -> None:
+        self.game = Batkill(max_bats=max_bats, 
+                bat_speed=bat_speed, 
+                attack_cooldown=attack_cooldown,
+                jump=jump)
         self.observer = Observer()
         self.game.attach(self.observer)
         
@@ -38,8 +41,12 @@ class BatkillEnv(gym.Env):
         
         self.observation_space = spaces.Box(self.mins, self.maxs, dtype=np.float32)
 
-        self.action_space = spaces.MultiDiscrete([3, 2, 2])
-        self.available_actions = [[None, MOVE_LEFT, MOVE_RIGHT], [None, JUMP], [None, ATTACK]]
+        if self.game.jump:
+            self.action_space = spaces.MultiDiscrete([3, 2, 2])
+            self.available_actions = [[None, MOVE_LEFT, MOVE_RIGHT], [None, JUMP], [None, ATTACK]]
+        else:
+            self.action_space = spaces.MultiDiscrete([3, 2])
+            self.available_actions = [[None, MOVE_LEFT, MOVE_RIGHT], [None, ATTACK]]
 
         self.reward_range = (-float(5), float(5))
         
