@@ -1,7 +1,8 @@
 {
-    "session":"ai-play",
-    "skill":"random",
+    "session":"human",
+    "skill":"novice",
     "time":5,
+    "warmup":false,
     "run":[1,2],
     "tests":
     [

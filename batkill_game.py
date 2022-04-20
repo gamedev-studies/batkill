@@ -200,7 +200,7 @@ class Batkill():
         else:
             return False
 
-    def gameRender(self, custom_message=None, **kwargs):
+    def gameRender(self, session=None, build=None, **kwargs):
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 pygame.quit()
@@ -210,11 +210,13 @@ class Batkill():
         score_surface = self.score_font.render(f"SCORE: {round(self.score * 1000)}, LIVES: {self.lives}", True,
                                                (0, 0, 0, 0))
         self.world.blit(score_surface, (10, 10))
-        if custom_message is not None:
-            custom_message_surface = self.score_font.render(str(custom_message), True,
-                                                            (0, 0, 0, 0))
-            self.world.blit(custom_message_surface, (10, 30))
-                
+        if session is not None:
+            session_surface = self.score_font.render(str(session), True, (0, 0, 0, 0))
+            self.world.blit(session_surface, (10, 30))
+        if build is not None:
+            build_surface = self.score_font.render(str(''.join(["build: ", build])), True, (0, 0, 0, 0))
+            self.world.blit(build_surface, (10, 50))
+
         self.player.update()
         self.player_list.draw(self.world)
         self.player_list.draw(self.world)

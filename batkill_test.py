@@ -4,7 +4,7 @@ import csv
 import time
 import json
 import os
-from stable_baselines3 import PPO, A2C
+from stable_baselines3 import PPO
 import imageio
 import numpy as np
 
@@ -24,7 +24,7 @@ if not os.path.exists(logs_dir):
 if not os.path.exists(results_dir):
     os.makedirs(results_dir)
 
-def _save_gif(session, skill, run, test):
+def _save_gif(images, session, skill, run, test):
     image_name = ''.join([session,'-',skill,'-',test["id"],'-run',str(run),'.gif'])
     imageio.mimsave(
         ''.join([results_dir,'/',image_name]), 
@@ -42,9 +42,9 @@ with open("config.json") as config_file:
 
 for run in data["run"]:
 
-    if data["session"] == "human":
+    if data["session"] == "human":                
 
-        for test in data["tests"]:
+        for test in data["tests"]:            
 
             game = Batkill(max_bats=test['bats'], 
                     bat_speed=test['bat_speed'], 
@@ -56,37 +56,55 @@ for run in data["run"]:
 
             game.initializeValues()
 
+            images = []
+            img = game.gameRender(session=data["session"], build=test["id"])
+
             t_end = time.time() + data['time']
             while time.time() < t_end:
+                images.append(img)
 
                 player_actions = game.gameInput()
 
                 game.gameUpdate(Command(player_actions))
 
-                game.gameRender(custom_message='HUMAN')
+                img = game.gameRender(session=data["session"], build=test["id"])                
+
+            # save the results only after warming up
+            if not data["warmup"]:
+                _save_gif(images, data["session"],data["skill"],run,test)
+                _save_results([str(datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')),
+                    data['session'], data['skill'], run, data['time'],
+                    test['id'], test['bats'], test['bat_speed'], test['attack_cooldown'], test['jump'],
+                    myObserver.event.score, myObserver.event.lives])
+
 
     if data["session"] == "ai-train":
 
-        env = BatkillEnv(max_bats=data['bats'], 
-                bat_speed=data['bat_speed'], 
-                attack_cooldown=data['attack_cooldown'],
-                jump=data['jump'])
+        # no need to train twice
+        if run == 2:
+            break
 
-        myObserver = Observer()
-        env.game.attach(myObserver)
+        for test in data["tests"]:        
 
-        env.reset()
+            env = BatkillEnv(max_bats=test['bats'], 
+                    bat_speed=test['bat_speed'], 
+                    attack_cooldown=test['attack_cooldown'],
+                    jump=test['jump'])
 
-        if data["skill"] == "novice":
-            TIMESTEPS = 1000
-        if data["skill"] == "professional":
-            TIMESTEPS = 1000000
-        else:
-            exit(0)
+            myObserver = Observer()
+            env.game.attach(myObserver)
 
-        model = PPO('MlpPolicy', env, verbose=1, tensorboard_log=logs_dir)
-        model.learn(total_timesteps=TIMESTEPS)
-        model.save(''.join([models_dir,"/",data["skill"]]))
+            env.reset()
+
+            if data["skill"] == "novice":
+                TIMESTEPS = 1000
+            if data["skill"] == "pro":
+                TIMESTEPS = 1000000
+            
+
+            model = PPO('MlpPolicy', env, verbose=1, tensorboard_log=logs_dir)
+            model.learn(total_timesteps=TIMESTEPS)
+            model.save(''.join([models_dir,"/",data["session"],'-',data["skill"],'-',test["id"]]))
 
 
     if data["session"] == "ai-play":
@@ -107,7 +125,7 @@ for run in data["run"]:
                 model = PPO.load(''.join([models_dir,"/",data["skill"]]), env=env)
             
             images = []
-            img = env.render(mode='rgb_array')
+            img = env.render(mode='rgb_array', session=data["session"], build=test["id"])
 
             t_end = time.time() + data['time']
             while time.time() < t_end:
@@ -120,14 +138,14 @@ for run in data["run"]:
                     action, _state = model.predict(obs)
                     obs, reward, done, info = env.step(action)
 
-                img = env.render(mode='rgb_array')
+                img = env.render(session=data["session"], build=test["id"])
 
                 if done:
                     obs = env.reset()
             
-            env.reset()
+            env.reset() # do I need this?
 
-            _save_gif(data["session"],data["skill"],run,test)
+            _save_gif(images, data["session"],data["skill"],run,test)
             _save_results([str(datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')),
                 data['session'], data['skill'], run, data['time'],
                 test['id'], test['bats'], test['bat_speed'], test['attack_cooldown'], test['jump'],

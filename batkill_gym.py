@@ -86,13 +86,8 @@ class BatkillEnv(gym.Env):
 
         return self._get_obs(), self.reward, self.observer.event.lives < 1, {}
 
-    def render(self, mode="human"):
-        if mode == 'rgb_array':
-            return self.game.gameRender()
-        elif mode == 'human':
-            self.game.gameRender()
-        # else:
-        #     super(MyEnv, self).render(mode=mode) # just raise an exception
+    def render(self, session=None, build=None):
+        return self.game.gameRender(session, build)
 
     def _get_obs(self):
         dct = {
