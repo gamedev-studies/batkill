@@ -1,10 +1,46 @@
 {
     "session":"ai-play",
-    "skill":"novice",
-    "run":1,
-    "time":3,
-    "bats":2,
-    "bat_speed":6,
-    "attack_cooldown":20,
-    "jump":false
+    "skill":"random",
+    "time":5,
+    "run":[1,2],
+    "tests":
+    [
+        {
+            "id":"t1",
+            "bats":2,
+            "bat_speed":6,
+            "attack_cooldown":10,
+            "jump":false
+        },
+        {
+            "id":"t2",
+            "bats":4,
+            "bat_speed":6,
+            "attack_cooldown":10,
+            "jump":false
+        },
+        {
+            "id":"t3",
+            "bats":4,
+            "bat_speed":12,
+            "attack_cooldown":10,
+            "jump":false
+        },
+        {
+            "id":"t4",
+            "bats":4,
+            "bat_speed":12,
+            "attack_cooldown":20,
+            "jump":false
+        },
+        {
+            "id":"t5",
+            "bats":4,
+            "bat_speed":12,
+            "attack_cooldown":20,
+            "jump":true
+        }
+    ]
+    
+        
 }
