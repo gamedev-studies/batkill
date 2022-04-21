@@ -56,22 +56,17 @@ for run in data["run"]:
 
             game.initializeValues()
 
-            images = []
-            img = game.gameRender(session=data["session"], build=test["id"])
-
             t_end = time.time() + data['time']
             while time.time() < t_end:
-                images.append(img)
 
                 player_actions = game.gameInput()
 
                 game.gameUpdate(Command(player_actions))
 
-                img = game.gameRender(session=data["session"], build=test["id"])                
+                game.gameRender(session=data["session"], build=test["id"])                
 
             # save the results only after warming up
             if not data["warmup"]:
-                _save_gif(images, data["session"],data["skill"],run,test)
                 _save_results([str(datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')),
                     data['session'], data['skill'], run, data['time'],
                     test['id'], test['bats'], test['bat_speed'], test['attack_cooldown'], test['jump'],
@@ -122,14 +117,14 @@ for run in data["run"]:
             obs = env.reset()
 
             if data["skill"] != "random":
-                model = PPO.load(''.join([models_dir,"/",data["skill"]]), env=env)
+                model = PPO.load(''.join([models_dir,"/ai-",data["skill"],'-',test["id"]]), env=env)
             
-            images = []
-            img = env.render(mode='rgb_array', session=data["session"], build=test["id"])
+            # images = []
+            # img = env.render(session=data["session"], build=test["id"])
 
             t_end = time.time() + data['time']
             while time.time() < t_end:
-                images.append(img)
+                # images.append(img)
 
                 if data["skill"] == "random":
                     random_action = env.action_space.sample()
@@ -138,14 +133,14 @@ for run in data["run"]:
                     action, _state = model.predict(obs)
                     obs, reward, done, info = env.step(action)
 
-                img = env.render(session=data["session"], build=test["id"])
+                env.render(session=data["session"], build=test["id"])
 
                 if done:
                     obs = env.reset()
             
             env.reset() # do I need this?
 
-            _save_gif(images, data["session"],data["skill"],run,test)
+            # _save_gif(images, data["session"],data["skill"],run,test)
             _save_results([str(datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')),
                 data['session'], data['skill'], run, data['time'],
                 test['id'], test['bats'], test['bat_speed'], test['attack_cooldown'], test['jump'],
