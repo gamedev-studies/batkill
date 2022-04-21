@@ -207,7 +207,7 @@ class Batkill():
                 self.running = False
                 sys.exit()
         self.world.blit(self.backdrop, self.backdropbox)
-        score_surface = self.score_font.render(f"SCORE: {round(self.score * 1000)}, LIVES: {self.lives}", True,
+        score_surface = self.score_font.render(f"BATS KILLED: {round(self.score)}, LIVES: {self.lives}", True,
                                                (0, 0, 0, 0))
         self.world.blit(score_surface, (10, 10))
         if session is not None:

@@ -134,14 +134,14 @@ for run in data["run"]:
                     obs, reward, done, info = env.step(action)
 
                 env.render(session=data["session"], build=test["id"])
-
-                if done:
-                    obs = env.reset()
+                
+                # if done:
+                #     obs = env.reset()
             
-            env.reset() # do I need this?
-
             # _save_gif(images, data["session"],data["skill"],run,test)
             _save_results([str(datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')),
                 data['session'], data['skill'], run, data['time'],
                 test['id'], test['bats'], test['bat_speed'], test['attack_cooldown'], test['jump'],
                 myObserver.event.score, myObserver.event.lives])
+
+            env.reset()
