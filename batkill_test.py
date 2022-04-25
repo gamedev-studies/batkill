@@ -56,8 +56,12 @@ for run in data["run"]:
 
             game.initializeValues()
 
+            # images = []
+            # img = game.gameRender(session=data["session"], build=test["id"])
+
             t_end = time.time() + data['time']
             while time.time() < t_end:
+                # images.append(img)    
 
                 player_actions = game.gameInput()
 
@@ -65,12 +69,15 @@ for run in data["run"]:
 
                 game.gameRender(session=data["session"], build=test["id"])                
 
+            delta = myObserver.event.score + myObserver.event.lives
+            
             # save the results only after warming up
             if not data["warmup"]:
+                # _save_gif(images, data["session"],data["skill"],run,test)
                 _save_results([str(datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')),
-                    data['session'], data['skill'], run, data['time'],
-                    test['id'], test['bats'], test['bat_speed'], test['attack_cooldown'], test['jump'],
-                    myObserver.event.score, myObserver.event.lives])
+                    data['time'], run, data['session'], data['skill'],
+                    test['id'], test["train"], test['bats'], test['bat_speed'], test['attack_cooldown'], test['jump'],
+                    myObserver.event.score, myObserver.event.lives, delta])
 
 
     if data["session"] == "ai-train":
@@ -79,27 +86,28 @@ for run in data["run"]:
         if run == 2:
             break
 
-        for test in data["tests"]:        
+        for test in data["tests"]:
+            # only train the first and last build
+            if (test['train']):         
 
-            env = BatkillEnv(max_bats=test['bats'], 
-                    bat_speed=test['bat_speed'], 
-                    attack_cooldown=test['attack_cooldown'],
-                    jump=test['jump'])
+                env = BatkillEnv(max_bats=test['bats'], 
+                        bat_speed=test['bat_speed'], 
+                        attack_cooldown=test['attack_cooldown'],
+                        jump=test['jump'])
 
-            myObserver = Observer()
-            env.game.attach(myObserver)
+                myObserver = Observer()
+                env.game.attach(myObserver)
 
-            env.reset()
+                env.reset()
 
-            if data["skill"] == "novice":
-                TIMESTEPS = 1000
-            if data["skill"] == "pro":
-                TIMESTEPS = 1000000
-            
+                if data["skill"] == "novice":
+                    TIMESTEPS = 100000
+                if data["skill"] == "pro":
+                    TIMESTEPS = 1000000                
 
-            model = PPO('MlpPolicy', env, verbose=1, tensorboard_log=logs_dir)
-            model.learn(total_timesteps=TIMESTEPS)
-            model.save(''.join([models_dir,"/",data["session"],'-',data["skill"],'-',test["id"]]))
+                model = PPO('MlpPolicy', env, verbose=1, tensorboard_log=logs_dir)
+                model.learn(total_timesteps=TIMESTEPS)
+                model.save(''.join([models_dir,"/",data["skill"],'-',test["id"]]))
 
 
     if data["session"] == "ai-play":
@@ -138,10 +146,12 @@ for run in data["run"]:
                 # if done:
                 #     obs = env.reset()
             
+            delta = myObserver.event.score + myObserver.event.lives
+
             # _save_gif(images, data["session"],data["skill"],run,test)
             _save_results([str(datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')),
-                data['session'], data['skill'], run, data['time'],
-                test['id'], test['bats'], test['bat_speed'], test['attack_cooldown'], test['jump'],
-                myObserver.event.score, myObserver.event.lives])
+                data['time'], run, data['session'], data['skill'],
+                test['id'], test["train"], test['bats'], test['bat_speed'], test['attack_cooldown'], test['jump'],
+                myObserver.event.score, myObserver.event.lives, delta])
 
             env.reset()
