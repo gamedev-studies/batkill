@@ -1,5 +1,5 @@
 {
-    "session":"human",
+    "session":"ai-play",
     "skill":"pro",
     "time":180,
     "warmup":false,
@@ -16,7 +16,7 @@
         },
         {
             "id":"build-2",
-            "train":false,
+            "train":true,
             "bats":3,
             "bat_speed":3,
             "attack_cooldown":10,

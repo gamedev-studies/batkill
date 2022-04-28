@@ -125,7 +125,12 @@ for run in data["run"]:
             obs = env.reset()
 
             if data["skill"] != "random":
-                model = PPO.load(''.join([models_dir,"/ai-",data["skill"],'-',test["id"]]), env=env)
+                if test["train"]:
+                    model_name = ''.join([models_dir,"/",data["skill"],'-',test["id"]])                    
+                else:
+                    model_name = ''.join([models_dir,"/",data["skill"],'-build-2'])
+
+                model = PPO.load(model_name, env=env)
             
             # images = []
             # img = env.render(session=data["session"], build=test["id"])
