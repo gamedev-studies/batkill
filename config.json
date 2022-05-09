@@ -1,0 +1,52 @@
+{
+  "session":"ai-play",
+  "skill":"pro",
+  "time":180,
+  "warmup":false,
+  "run":[1,2],
+  "tests":
+  [
+    {
+      "id":"build-1",
+      "train":true,
+      "bats":2,
+      "bat_speed":3,
+      "attack_cooldown":10,
+      "jump":false
+    },
+    {
+      "id":"build-2",
+      "train":true,
+      "bats":3,
+      "bat_speed":3,
+      "attack_cooldown":10,
+      "jump":false
+    },
+    {
+      "id":"build-3",
+      "train":false,
+      "bats":3,
+      "bat_speed":6,
+      "attack_cooldown":10,
+      "jump":false
+    },
+    {
+      "id":"build-4",
+      "train":false,
+      "bats":3,
+      "bat_speed":6,
+      "attack_cooldown":15,
+      "jump":false
+    },
+    {
+      "id":"build-5",
+      "train":true,
+      "bats":3,
+      "bat_speed":6,
+      "attack_cooldown":15,
+      "jump":true
+    }
+  ]
+  
+    
+}
