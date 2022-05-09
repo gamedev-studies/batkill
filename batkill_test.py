@@ -126,9 +126,9 @@ for run in data["run"]:
 
             if data["skill"] != "random":
                 if test["train"]:
-                    model_name = ''.join([models_dir,"/",data["skill"],'-',test["id"]])                    
+                    model_name = ''.join([models_dir,"/","a2c/",data["skill"],'-',test["id"]])                    
                 else:
-                    model_name = ''.join([models_dir,"/",data["skill"],'-build-2'])
+                    model_name = ''.join([models_dir,"/","a2c/",data["skill"],'-build-2'])
 
                 model = PPO.load(model_name, env=env)
             
