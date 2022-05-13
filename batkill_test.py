@@ -126,9 +126,9 @@ for run in data["run"]:
 
             if data["skill"] != "random":
                 if test["train"]:
-                    model_name = ''.join([models_dir,"/","a2c/",data["skill"],'-',test["id"]])                    
+                    model_name = ''.join([models_dir,"/",data["model"],"/",data["skill"],'-',test["id"]])                    
                 else:
-                    model_name = ''.join([models_dir,"/","a2c/",data["skill"],'-build-2'])
+                    model_name = ''.join([models_dir,"/",data["model"],"/",data["skill"],'-build-2'])
 
                 model = PPO.load(model_name, env=env)
             
@@ -155,7 +155,7 @@ for run in data["run"]:
 
             # _save_gif(images, data["session"],data["skill"],run,test)
             _save_results([str(datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')),
-                data['time'], run, data['session'], data['skill'],
+                data['time'], run, data['session'], data['skill'], data['model'],
                 test['id'], test["train"], test['bats'], test['bat_speed'], test['attack_cooldown'], test['jump'],
                 myObserver.event.score, myObserver.event.lives, delta])
 

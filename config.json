@@ -1,6 +1,7 @@
 {
   "session":"ai-play",
-  "skill":"pro",
+  "model":"ppo",
+  "skill":"novice",
   "time":180,
   "warmup":false,
   "run":[1,2],
